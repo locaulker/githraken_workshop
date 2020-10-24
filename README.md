@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Gitkraken Workshop
 
 A hands-on workshop workshop to demonstrate how to use GitKraken as a GUI client to the Git version control system
+=======
+# gitkraken_workshop
+>>>>>>> master
 
 ## Overview
 
@@ -27,5 +31,8 @@ Contributions and references are included in the source code files.
 Contributions and references are included in the source code files.
 
 ## Licensing
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 This is all available as CC BY 4.0 license. Enjoy!
